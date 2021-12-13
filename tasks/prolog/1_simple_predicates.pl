@@ -15,3 +15,4 @@
 	?- cousin(X,Y).
 	?- grandson(X,Y).
 	?- descendent(X,Y).
+	1
