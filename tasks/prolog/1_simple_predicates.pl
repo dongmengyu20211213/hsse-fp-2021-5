@@ -26,6 +26,8 @@
 	descendent(X,Y):- 
 		father(W,X),
 		descendent(W,Y).
+		
+		
 % указать в каком порядке и какие ответы генерируются вашими методами
 	?- brother(X,Y).
         X = b,
